@@ -1,0 +1,22 @@
+ikonky
+http://www.flaticon.com
+
+free temy pre bootstrap
+http://bootswatch.com
+http://startbootstrap.com/template-categories/all/
+
+zdroje pre bootstrap
+http://startbootstrap.com/bootstrap-resources/
+
+social icons
+http://lipis.github.io/bootstrap-social/
+https://github.com/lipis/bootstrap-social
+
+fonty a ikonky
+http://fortawesome.github.io/Font-Awesome/get-started/
+http://fortawesome.github.io/Font-Awesome/examples/
+https://github.com/FortAwesome/Font-Awesome
+
+postavit na 
+https://github.com/mmistakes/minimal-mistakes
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
